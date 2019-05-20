@@ -1,4 +1,4 @@
 # abd181.github.io
-Financial University. Hosting for Abd181 group 
+Financial University. Materials for ABD181 group 
 
 Сайт с материалами курса "Прикладные модели и методы факторного, дискриминантного и кластерного анализа" Финансового Университета.
