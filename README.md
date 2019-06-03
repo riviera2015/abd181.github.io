@@ -4,11 +4,12 @@ Financial University. Materials for ABD181 group
 Репозиторий с материалами курса "Прикладные модели и методы факторного, дискриминантного и кластерного анализа" Финансового Университета.
 
 ## Материалы 
-- [Лекция 1. Метод k ближайших соседей, кросс-валидация]
-* [Лекция]
-* [Dataset]
-* [Ноутбук с семинара](https://github.com/iad-24/seminars/blob/master/materials/sem1.ipynb)
+*Лекция 1.* Линейная классификация.
+* [Задание] (https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_starter_logreg.ipynb)
+* [Ноутбук с семинара](https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_solution_logreg.ipynb)
 
-- [Глава 2](Lectures/Глава2): Регрессионный анализ
-- [Глава 3](Lectures/Глава3): Методы снижения размерности многомерных признаков
-- [Глава 4](Lectures/Глава4): Методы многомерной классификации
+
+*Лекция 2.* Метод k ближайших соседей, кросс-валидация.
+* [Лекция] 
+* [Dataset]
+* [Ноутбук с семинара]
