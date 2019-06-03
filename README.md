@@ -14,3 +14,7 @@ Financial University. Materials for ABD181 group
 * [Ноутбук с семинара](https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_solution_logreg.ipynb)
 * [Датасет](https://github.com/abd181/abd181.github.io/blob/master/Data/data_sem1_hw.txt)
 
+*Лекция .* bbbb.
+* [Задание](https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_starter_logreg.ipynb)
+* [Ноутбук с семинара](https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_solution_logreg.ipynb)
+* [Датасет](https://github.com/abd181/abd181.github.io/blob/master/Data/data_sem1_hw.txt)
