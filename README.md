@@ -5,7 +5,7 @@ Financial University. Materials for ABD181 group
 
 ## Материалы 
 *Лекция 1.* Линейная классификация.
-* [Задание] (https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_starter_logreg.ipynb)
+* [Задание](https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_starter_logreg.ipynb)
 * [Ноутбук с семинара](https://github.com/abd181/abd181.github.io/blob/master/NoteBooks/seminar7_solution_logreg.ipynb)
 
 
